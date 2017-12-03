@@ -1,2 +1,4 @@
 # Javascript-Patterns
-Justs a set of javascript patterns samples
+Just a set of javascript patterns samples.
+
+[Module pattern](/module)
