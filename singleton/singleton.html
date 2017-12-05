@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <script src="singleton.js" ></script>
+        <script>
+            function run() {
+                var obj1 = Singleton.build();
+                var obj2 = Singleton.build();
+
+                alert("Same instance " + (obj1 === obj2));  
+            }
+
+            run();
+            
+        </script>
+    </head>
+</html>
